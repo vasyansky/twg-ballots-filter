@@ -1,4 +1,5 @@
-Ballots filtering for TWG website.  
+Ballots filtering for TWG website.
+![screenshot](screenshot.png)
 Available as userscript or bookmarklet.  
 Works on [Ballots page](https://turbo.jam.gd/ru/v0/results?view=ballots).
 
