@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name        Ballots filter for turbo.jam.gd
-// @namespace   Violentmonkey Scripts
 // @match       https://turbo.jam.gd/ru/v0/results?view=ballots
 // @icon        https://static-cdn-tmp.jam.gd/-Wh543e4uqh5swN7uHNYPVKzKEN-TfO4zUni4_7qlc0/f:webp/rs::64:64/czM6Ly9qYW1nZC1zdGF0aWMvYWY4YjRmMTMtZDkxMS00ZDZiLWFkNWItNmRmZTM4YTY0YmUwL2ZhdjY0LndlYnA
 // @grant       none
